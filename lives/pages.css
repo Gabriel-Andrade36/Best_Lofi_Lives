@@ -1,0 +1,17 @@
+h1,h2,h3,p{
+    color:rgb(82, 80, 80);
+    font-family: monospace;
+}
+
+body{
+    background-color:rgb(0, 0, 0);
+}
+
+a{
+    text-decoration:none;
+    color:rgb(82, 82, 246)
+}   
+
+.Spot{
+    color:goldenrod;
+}
