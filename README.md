@@ -5,11 +5,11 @@ And I decided to make a page with youtube lofi transmissions using my basic know
 </p>
 
 <div align="center">
-  <p> First page: </p>
+  <p><Strong> First page:</Strong> </p>
 <img src="readme imgs/screen.png" alt="screen image" width="700px" >
-  <p> browsing </p>
+  <p><Strong> browsing: </Strong></p>
 <img src="readme imgs/screen gif.gif" alt="using screen image" width="700px">
-  <p> finding out the youtube channel </p>
+  <p><Strong> finding out the youtube channel: </Strong></p>
 <img src="readme imgs/linktochannel.gif" alt="finding out the channel" width="700px">
 
 </div>
